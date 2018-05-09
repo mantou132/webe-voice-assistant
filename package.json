@@ -1,0 +1,16 @@
+{
+  "name": "webe-voice-assistant",
+  "version": "0.0.1",
+  "description": "webextension, voice, speech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webextension",
+    "voice",
+    "speech"
+  ],
+  "author": "mt",
+  "license": "ISC"
+}
